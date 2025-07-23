@@ -12,5 +12,15 @@ como práctica de fundamentos de desarrollo Frontend.
 ## Como usar
 
 1.-Cloná el repositorio o descargá el ZIP:
-````bash
+```bash
 git clone https://github.com/orioncode-nod/todo-list-js.git
+```
+2.-Abre el archivo `index.html` en tu navegador.
+
+##Tecnologías
+-HTML5
+-CSS3
+-JavaScript (vanilla)
+
+
+
