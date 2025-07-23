@@ -16,7 +16,7 @@ como práctica de fundamentos de desarrollo Frontend.
 git clone https://github.com/orioncode-nod/todo-list-js.git
 ```
 2.-Abre el archivo `index.html` en tu navegador.
----
+
 
 ## Tecnologías
 - HTML5
