@@ -9,6 +9,11 @@ como práctica de fundamentos de desarrollo Frontend.
 - Interfaz limpia y responsive
 - Código simple y claro para principiantes
 ---
+
+## Vista Previa
+
+[Ver en GitHub Pages](https://orioncode-nod.github.io/todo-list-js/)
+---
 ## Como usar
 
 1.-Cloná el repositorio o descargá el ZIP:
